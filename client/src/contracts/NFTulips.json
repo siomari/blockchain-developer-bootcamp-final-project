@@ -17978,12 +17978,12 @@
         }
       },
       "links": {},
-      "address": "0x682bE8Cb972582CEA6f6cf4fF19c6c112056b421",
-      "transactionHash": "0x5f4c05bb2b18eb0fb7a3d20be05c5db3ba3eef7034745a59a4a664cdcf91391a"
+      "address": "0x6e5ef1DCA7548096993EC5f0BaBB8FDB86fD8249",
+      "transactionHash": "0xc226779a70dde0cd6470ccacb2257caf693b3e5e5f8371688a9e26f847b911f6"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2022-01-15T12:47:41.846Z",
+  "updatedAt": "2022-01-15T13:48:06.039Z",
   "networkType": "ethereum",
   "devdoc": {
     "details": "Contract that provides an NFT mining process that creates an NFT.  And based on the likes of the contract the initial supply of the NFT decreases. This contract inherites ERC721UTIStorage and Ownable contracts from Openzeppelin.",

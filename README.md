@@ -32,7 +32,7 @@ Due to time limitations, I didn't manage to deploy my contract to a testnet or u
 
 You sould have truffle and ganache installed. Ganache should run.
 
-Clone the project and run ```truffle deploy```. 
+Clone the project and run ```truffle deploy --reset```. 
 
 ### Frontend deployment
 
@@ -54,6 +54,7 @@ Run
 
 ## Video
 
+https://www.loom.com/share/d52616d582fa47b5846deb63326fe350
 
 ## Public Ethereum Account
 0xFBf2fca79AFCCbbA5A599Bba20Ff3C48e046EeA7
