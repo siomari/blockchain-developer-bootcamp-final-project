@@ -17,13 +17,36 @@ NFT creation and mining will be dependent to the virality of the post. In partic
 
 ## How to run the project locally
 
+Due to time limitations, I didn't manage to deploy my contract to a testnet or upload the interface to a hosting server. It is only deployed and tested locally.
+
 ### Preresquities
+
+* npm : 6.14.15
+* nodejs : 12.22.8
+* ganache : 2.5.4
+* Truffle : 5.4.23
+* solidity : 0.8.0
+* web3js : 1.5.3
 
 ### Contract deployment
 
+You sould have truffle and ganache installed. Ganache should run.
+
+Clone the project and run ```truffle deploy```. 
+
 ### Frontend deployment
 
+For the frontend deployment
+```cd client```
+```npm start```
+
+Open http://localhost:3000/
+and connect Metamask to the network that contract was deployed
+
 ## Tests
+
+Run 
+```truffle test```
 
 ## Video
 

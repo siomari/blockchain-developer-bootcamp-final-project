@@ -1,4 +1,4 @@
-# Avoidin common attacks
+# Avoiding common attacks
 
 In this work the we use a specific compiler pragma (^0.8.0).
 Moreover there is a proper use of require, where we check if the ammount sent for the purchase is not below the requested.
