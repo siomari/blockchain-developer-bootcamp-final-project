@@ -94,7 +94,7 @@ class App extends Component {
     e.preventDefault()
 
     const{accounts, contract, web3, price, likes} = this.state
-    await contract.methods.updateState(1180).send({
+    await contract.methods.updateState(likes).send({
       from: accounts[0]
     })
 
