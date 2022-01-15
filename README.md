@@ -37,6 +37,7 @@ Clone the project and run ```truffle deploy```.
 ### Frontend deployment
 
 For the frontend deployment
+
 ```cd client```
 
 ```npm start```
