@@ -38,6 +38,7 @@ Clone the project and run ```truffle deploy```.
 
 For the frontend deployment
 ```cd client```
+
 ```npm start```
 
 Open http://localhost:3000/
